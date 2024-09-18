@@ -1,0 +1,41 @@
+﻿ProductCategory,ProductType,Quantity,UnitPrice
+Office Supplies,Laser Printer,100,425
+Office Supplies,Ergonomic Chair,1000,299
+Office Supplies,Standing Desk,1000,420
+Office Supplies,Wireless Keyboard,1000,78
+Office Supplies,Office Stationery Set,1000,15
+Healthcare,Digital Thermometer,2500,36
+Healthcare,Blood Pressure Monitor,2500,44
+Healthcare,Glucometer,2500,29
+Healthcare,Surgical Masks,10000,2
+Healthcare,Hand Sanitizer,5000,14
+Consumer Goods,LED Light Bulbs,5000,5
+Consumer Goods,Vacuum Cleaner,100,364
+Consumer Goods,Air Purifier,1000,99
+Consumer Goods,Electric Kettle,500,199
+Consumer Goods,Microwave Oven,500,325
+Automotive,Car Battery,1000,99
+Automotive,Engine Oil,1000,40
+Automotive,Brake Pads,1000,60
+Automotive,Tires,2000,120
+Automotive,Car Air Freshener,2500,9
+Construction Materials,Cement,500,100
+Construction Materials,Steel Beams,1000,600
+Construction Materials,Insulation Material,10000,2
+Construction Materials,PVC Pipes,5000,3
+Construction Materials,Roofing Sheets,5000,7
+Food Beverages,Organic Coffee Beans,5000,19
+Food Beverages,Bottled Water,10000,5
+Food Beverages,Energy Drink,5000,7
+Food Beverages,Protein Bars,5000,5
+Food Beverages,Gourmet Chocolate,5000,9
+Industrial Equipment,Forklift,50,21000
+Industrial Equipment,Conveyor Belt,1000,1000
+Industrial Equipment,Industrial Robot,50,30000
+Industrial Equipment,3D Printer,100,980
+Industrial Equipment,CNC Machine,100,25000
+Electronics,Laptop,1000,799
+Electronics,Smartphone,1000,675
+Electronics,Tablet,1000,499
+Electronics,Smartwatch,1000,160
+Electronics,Bluetooth Headphones,1000,139
