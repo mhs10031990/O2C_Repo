@@ -4,21 +4,38 @@ Office Supplies,Ergonomic Chair,1000,299
 Office Supplies,Standing Desk,1000,420
 Office Supplies,Wireless Keyboard,1000,78
 Office Supplies,Office Stationery Set,1000,15
+Office Supplies,Shredders,500,69
+Office Supplies,Office Phones,1000,77
+Office Supplies,Filing Cabinets,500,176
+Office Supplies,Whiteboards,1000,19
 Healthcare,Digital Thermometer,2500,36
 Healthcare,Blood Pressure Monitor,2500,44
 Healthcare,Glucometer,2500,29
 Healthcare,Surgical Masks,10000,2
 Healthcare,Hand Sanitizer,5000,14
+Healthcare,First Aid Kit,1000,21
+Healthcare,Pulse Oximeter,1000,11
+Healthcare,Stethoscope,1000,23
+Healthcare,Digital Weighing Scale,1000,19
+Healthcare,Antiseptic Wipes,10000,5
 Consumer Goods,LED Light Bulbs,5000,5
 Consumer Goods,Vacuum Cleaner,100,364
 Consumer Goods,Air Purifier,1000,99
 Consumer Goods,Electric Kettle,500,199
 Consumer Goods,Microwave Oven,500,325
+Consumer Goods,Electric Fan,500,18
+Consumer Goods,Dishwasher,300,299
+Consumer Goods,Coffee Maker,500,49
 Automotive,Car Battery,1000,99
 Automotive,Engine Oil,1000,40
 Automotive,Brake Pads,1000,60
 Automotive,Tires,2000,120
 Automotive,Car Air Freshener,2500,9
+Automotive,Spark Plugs,2000,4
+Automotive,Radiator Coolant,2000,14
+Automotive,Jumper Cables,1000,13
+Automotive,Transmission Fluid,2000,8
+Automotive,Radiator Coolant,2000,9
 Construction Materials,Cement,500,100
 Construction Materials,Steel Beams,1000,600
 Construction Materials,Insulation Material,10000,2
@@ -29,13 +46,28 @@ Food Beverages,Bottled Water,10000,5
 Food Beverages,Energy Drink,5000,7
 Food Beverages,Protein Bars,5000,5
 Food Beverages,Gourmet Chocolate,5000,9
-Industrial Equipment,Forklift,50,21000
+Food Beverages,Cold-Pressed Juice,300,11
+Food Beverages,Greek Yogurt,500,3
+Food Beverages,Granola,400,3
+Food Beverages,Herbal Tea,500,2
+Food Beverages,Dried Fruits,600,5
+Industrial Equipment,Forklift,100,21000
 Industrial Equipment,Conveyor Belt,1000,1000
-Industrial Equipment,Industrial Robot,50,30000
+Industrial Equipment,Industrial Robot,100,30000
 Industrial Equipment,3D Printer,100,980
 Industrial Equipment,CNC Machine,100,25000
+Industrial Equipment,Industrial Fan,100,3000
+Industrial Equipment,Water Jet Cutter,100,35000
+Industrial Equipment,Laser Cutter,100,39000
+Industrial Equipment,Industrial Oven,100,12000
+Industrial Equipment,Packaging Machine,100,11900
 Electronics,Laptop,1000,799
 Electronics,Smartphone,1000,675
 Electronics,Tablet,1000,499
 Electronics,Smartwatch,1000,160
 Electronics,Bluetooth Headphones,1000,139
+Electronics,Fitness Tracker,1000,99
+Electronics,Portable Speaker,300,79
+Electronics,Smart TV,200,420
+Electronics,VR Headset,100,121
+Electronics,Digital Camera,100,189
